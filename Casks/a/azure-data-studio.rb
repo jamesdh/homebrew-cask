@@ -1,7 +1,7 @@
 cask "azure-data-studio" do
   arch arm: "darwin-arm64", intel: "darwin"
 
-  version "1.48.1"
+  version "1.49.0"
   sha256 arm:   "365f671dfe966a5c713d6a6da9516e9aa06e78c7c5f0b0a359a60bbacb885bb7",
          intel: "08bf8e231d777e694afcff7da0b4b717c541d945bd5cf055a8cf78d01bc10b80"
 
